@@ -1,0 +1,4 @@
+
+testPasswordLength=false
+testEmailFormat=false
+testAuthorNameLength=false

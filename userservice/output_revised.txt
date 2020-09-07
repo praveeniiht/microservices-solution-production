@@ -1,0 +1,7 @@
+
+testGetAllUsersBDD=true
+testLoginBDD=true
+testAddUser=true
+testLogin=true
+testGetAllUsers=true
+testAddUserBDD=false
