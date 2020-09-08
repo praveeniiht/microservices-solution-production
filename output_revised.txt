@@ -1,0 +1,14 @@
+
+testFindNoteBDD=true
+testFindAllNotesByStatus=false
+testAddNote=true
+testdeleteNoteBDD=true
+testFindAllNote=true
+testNoteUpdateStatus=true
+testFindAllNotesStatusBDD=false
+testFindNote=true
+testDeleteNote=true
+testaddNoteBDD=true
+testNoteUpdateStatusBDD=true
+testfindAllNotesByAuthorBDD=false
+testFindAllNotesByAuthor=false
